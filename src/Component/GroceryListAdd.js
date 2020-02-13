@@ -4,7 +4,7 @@ class GroceryListAdd extends React.Component{
 
     render(){
         return(
-            <div>
+            <div style={{backgroundColor:"lightblue"}}>
                 <input name="add"/>
                 <input name="addButton" type="submit" value="Add"/>
             </div>
