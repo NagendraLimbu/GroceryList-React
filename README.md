@@ -1,4 +1,15 @@
 
+First project Git Command
+$ git init
+$ git add <files>
+$ git commit -m "First commit from new computer"
+$ git remote add origin git@github.com:NagendraLimbu/GroceryList-React.git
+$ git clone https://github.com/roparzhhemon/myremoterepo.git
+git push -u origin master
+git pull origin master --allow-unrelated-histories
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
