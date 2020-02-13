@@ -1,9 +1,10 @@
 import React from 'react';
 import './App.css';
+import GroceryListContainer from './Component/Container';
 
 function App() {
   return (    
-        <h1>This is TEST</h1>
+        <GroceryListContainer />
        );
 }
 
